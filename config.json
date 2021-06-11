@@ -1,0 +1,13 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "❤️ Welcome to montero ❤️",
+        "GUILD_ID": "839693486285651970",
+        "VOICE_CHANNEL": "852229499914682424",
+        "MIN_STAFF_ROLE": "839693486906671108"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    }
+}
